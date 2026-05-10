@@ -5,4 +5,4 @@ About
 This is my personal portfolio website built to present my skills, projects, and experience as an AI & Data Science Engineer. 
 It features a dark futuristic design with a live particle network, terminal-style hero section, and smooth scroll animations.
 
-Live Site: jananirs-git.github.io
+🌐 Live Site: jananirs-git.github.io
